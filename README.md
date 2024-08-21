@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Felipe González Queralto</h1>
 <h3 align="center">A passionate frontend developer and data scientist from Chile</h3>
 
-- 🔭 I’m currently working on [Gran Memoria](www.granmemoria.cl)
 
 - 🌱 I’m currently learning **React and React Native**
 
 - 👯 I’m looking to collaborate on **Google**
 
 - 🤝 I’m looking for help with **GCP and Machine Learning**
-
-- 👨‍💻 All of my projects are available at [www.ignvcio.web.app](www.ignvcio.web.app)
 
 - 💬 Ask me about **Vue3.js**
 
