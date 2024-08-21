@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Felipe González Queralto</h1>
-<h3 align="center">A passionate frontend developer and data scientist from Chile</h3>
-
 
 - 🌱 I’m currently learning **React and React Native**
 
