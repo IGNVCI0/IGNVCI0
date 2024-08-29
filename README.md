@@ -14,7 +14,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,vue,angular,react,nodejs,vuetify,tailwind,bootstrap,materialui,vite,pinia,nuxt,netlify,androidstudio,java,css,html,firebase,git,github,docker,postman,vscode,ai,ps,xd,angular,bootstrap,cloudflare,discord,gcp,sqlite,mongodb,mysql,cloudflare,npm&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,vue,angular,nodejs,vuetify,tailwind,bootstrap,materialui,vite,nuxt,css,html,firebase,github,docker,ai,ps,xd,cloudflare,gcp,mongodb,mysql,cloudflare&perline=12" />
   </a>
 </p>
 <br>
