@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe González Queralto</h1>
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Google**
 
